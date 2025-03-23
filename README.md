@@ -33,10 +33,6 @@ This project implements a complete Business Intelligence (BI) pipeline that extr
 2. Execute the SSIS package to transform and clean the data.
 3. Open Power BI and connect it to the SQL Server to create your dashboards.
 
-## Dashboard Visualization
-
-![Power BI Dashboard](https://github.com/ayoub-anhal/BI_Web-Scraping_Visualisation/blob/main/PLAN/DAHS_PHOTO.png)
-
 ## Prerequisites
 
 * Python 3.x with the following libraries:
@@ -49,11 +45,7 @@ This project implements a complete Business Intelligence (BI) pipeline that extr
 
 ## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/ayoub-anhal/BI_Web-Scraping_Visualisation.git
-   cd BI_Web-Scraping_Visualisation
-   ```
+
 
 2. Install required Python packages:
    ```bash
